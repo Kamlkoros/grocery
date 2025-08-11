@@ -11,7 +11,6 @@ class SignInScreen extends StatelessWidget {
         padding: const EdgeInsets.all(24.0),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
-          mainAxisAlignment: MainAxisAlignment.end,
           children: [
             Image.asset('assets/onboard.jpg'),
             const Text(
